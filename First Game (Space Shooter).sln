@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A87FAC4-CC36-99BD-6450-9304FB84B30D}") = "First Game (Space Shooter)", "Assembly-CSharp.csproj", "{3BCA498E-031A-DAF2-9779-FD01F3D83A74}"
+EndProject
+Project("{3A87FAC4-CC36-99BD-6450-9304FB84B30D}") = "First Game (Space Shooter)", "Assembly-CSharp-Editor.csproj", "{E4E1E960-74F3-483C-D5B5-5BCE72D97773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCA498E-031A-DAF2-9779-FD01F3D83A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCA498E-031A-DAF2-9779-FD01F3D83A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCA498E-031A-DAF2-9779-FD01F3D83A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCA498E-031A-DAF2-9779-FD01F3D83A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E1E960-74F3-483C-D5B5-5BCE72D97773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E1E960-74F3-483C-D5B5-5BCE72D97773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E1E960-74F3-483C-D5B5-5BCE72D97773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E1E960-74F3-483C-D5B5-5BCE72D97773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
